@@ -1,0 +1,4 @@
+rootProject.name = 'hw-core-4-2-gradle'
+include 'db'
+include 'service'
+include 'api'
